@@ -1,0 +1,44 @@
+app:
+  name: "@solvnox"
+  version: "amp"
+  language: "ru"
+
+branding:
+  product_title: "solvnox"
+  logo_text: "Telegram-channel: @solvnox_project"
+  logo_file: ""
+  report_theme: "dark"
+  report_footer: "GEOINT / OSINT • Публичные данные • Приблизительная геолокация"
+
+ui:
+  browser_auto_open: true
+  cli_theme: "dark"
+
+ip_geolocation:
+  provider: "ip-api"
+  endpoint: "http://ip-api.com/json/"
+  timeout: 10
+
+geocoding:
+  provider: "nominatim"
+  user_agent: "@solvnox"
+  timeout: 10
+
+paths:
+  data: "data"
+  logs: "logs"
+  reports: "reports"
+  history: "data/history.json"
+  sessions: "data/sessions"
+  favorites: "data/favorites.json"
+  reports_html: "reports/html"
+  reports_json: "reports/json"
+  reports_txt: "reports/txt"
+  reports_csv: "reports/csv"
+  maps: "reports/maps"
+
+map:
+  default_zoom: 14
+  default_tiles: "OpenStreetMap"
+  ip_radius_meters: 50000
+
