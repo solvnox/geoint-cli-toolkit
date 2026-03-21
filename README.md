@@ -24,10 +24,13 @@ python main.py
   Tollkit of GeoINT
 </p>
 ## CLI менюшка
+
 ![CLI](images/cli.png)
 ## Карта 
+
 ![Map](images/map.png)
 ## Граф связей
+
 ![Graph](images/graph.png)
 
 
