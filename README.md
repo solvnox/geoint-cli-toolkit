@@ -21,7 +21,7 @@ python main.py
 <h1 align="center">Solvnox</h1>
 
 <p align="center">
-  Short description of your tool
+  Tollkit of GeoINT
 </p>
 
 ![CLI](images/cli.png)
