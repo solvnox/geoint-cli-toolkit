@@ -23,10 +23,13 @@ python main.py
 <p align="center">
   Tollkit of GeoINT
 </p>
-
+## CLI менюшка
 ![CLI](images/cli.png)
-CLI менюшка
+## Карта 
 ![Map](images/map.png)
-Карта 
+## Граф связей
 ![Graph](images/graph.png)
-Граф связей
+
+
+## Telegram-channel: @solvnox_project
+
