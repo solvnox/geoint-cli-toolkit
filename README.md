@@ -1,6 +1,6 @@
 # solvnox GEOINT / OSINT CLI
 
-Интерактивная утилита геопространственной разведки (GEOINT/OSINT) с меню на русском языке  **solvnox**.
+Интерактивная утилита геопространственной разведки (GEOINT/OSINT) с меню на русском языке  
 
 ## Установка
 
@@ -14,3 +14,16 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+<p align="center">
+  <img src="images/logo.png" width="200">
+</p>
+
+<h1 align="center">Solvnox</h1>
+
+<p align="center">
+  Short description of your tool
+</p>
+
+![CLI](images/cli.png)
+![Map](images/map.png)
+![Graph](images/graph.png)
