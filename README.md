@@ -25,5 +25,8 @@ python main.py
 </p>
 
 ![CLI](images/cli.png)
+CLI менюшка
 ![Map](images/map.png)
+Карта 
 ![Graph](images/graph.png)
+Граф связей
